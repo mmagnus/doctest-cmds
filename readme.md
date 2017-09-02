@@ -1,5 +1,5 @@
 doctest-cmds
--------------------------------------------------------------------------------
+============================================================================
 
 A proof of concept doctesting for cmds in Python doctests:
 
@@ -42,3 +42,16 @@ Inspiration:
 When OK:
 
 ![](docs/ok.png)
+
+Install
+-------------------------------------------------------------------------------
+
+Add a path to the `doctest_cmds` folder to your PYTHONPATH in `.bashrc`, e.g.:
+    
+    PYTHONPATH=$PYTHONPATH:<path>/doctest-cmds/doctest_cmds
+
+TODO
+-------------------------------------------------------------------------------
+
+- [ ] compare outputs
+- [ ] make a package
