@@ -3,7 +3,7 @@ doctest-cmds
 
 A proof of concept doctesting for cmds in Python doctests:
 
-![](docs/doctest_cmds.png)
+![](docs/imgs/doctest_cmds.png)
 
 Usage with `pytest`:
 
@@ -41,13 +41,13 @@ Inspiration:
 
 When OK:
 
-![](docs/ok.png)
+![](docs/imgs/ok.png)
 
 Install
 -------------------------------------------------------------------------------
 
 Add a path to the `doctest_cmds` folder to your PYTHONPATH in `.bashrc`, e.g.:
-    
+
     PYTHONPATH=$PYTHONPATH:<path>/doctest-cmds/doctest_cmds
 
 TODO
