@@ -46,12 +46,11 @@ When OK:
 Install
 -------------------------------------------------------------------------------
 
-Add a path to the `doctest_cmds` folder to your PYTHONPATH in `.bashrc`, e.g.:
-
-    PYTHONPATH=$PYTHONPATH:<path>/doctest-cmds/doctest_cmds
+    pip install git+git://github.com/mmagnus/doctest-cmds
 
 TODO
 -------------------------------------------------------------------------------
 
+- [ ] check if there is something useful here https://pypi.python.org/pypi?%3Aaction=search&term=doctest&submit=search
 - [ ] compare outputs
-- [ ] make a package
+- [x] make a package
