@@ -1,0 +1,11 @@
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/__init__.py
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/doctest_cmds.py
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/skeleton.py
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/__init__.pyc
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/doctest_cmds.pyc
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds/skeleton.pyc
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds-0.1.post0.dev1+ng582c879-py2.7.egg-info/dependency_links.txt
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds-0.1.post0.dev1+ng582c879-py2.7.egg-info/not-zip-safe
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds-0.1.post0.dev1+ng582c879-py2.7.egg-info/PKG-INFO
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds-0.1.post0.dev1+ng582c879-py2.7.egg-info/SOURCES.txt
+/home/magnus/work/opt/miniconda2/lib/python2.7/site-packages/doctest_cmds-0.1.post0.dev1+ng582c879-py2.7.egg-info/top_level.txt
