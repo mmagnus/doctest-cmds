@@ -51,5 +51,6 @@ Install
 TODO
 -------------------------------------------------------------------------------
 
+- [ ] check if there is something useful here https://pypi.python.org/pypi?%3Aaction=search&term=doctest&submit=search
 - [ ] compare outputs
 - [x] make a package
