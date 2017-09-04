@@ -39,6 +39,10 @@ Inspiration:
 
 - https://github.com/JNRowe/shell-doctest
 
+Read more:
+
+- https://stackoverflow.com/questions/9973895/python-doctest-for-shell-scripts-that-test-argument-parsing-without-polluting-do
+
 When OK:
 
 ![](docs/imgs/ok.png)
